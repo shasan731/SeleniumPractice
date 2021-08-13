@@ -1,0 +1,15 @@
+C:\Practice\SeleniumPractice\UiTests\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Practice\SeleniumPractice\UiTests\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Practice\SeleniumPractice\UiTests\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+C:\Practice\SeleniumPractice\UiTests\bin\Debug\netcoreapp3.1\UiTests.deps.json
+C:\Practice\SeleniumPractice\UiTests\bin\Debug\netcoreapp3.1\UiTests.runtimeconfig.json
+C:\Practice\SeleniumPractice\UiTests\bin\Debug\netcoreapp3.1\UiTests.runtimeconfig.dev.json
+C:\Practice\SeleniumPractice\UiTests\bin\Debug\netcoreapp3.1\UiTests.dll
+C:\Practice\SeleniumPractice\UiTests\bin\Debug\netcoreapp3.1\UiTests.pdb
+C:\Practice\SeleniumPractice\UiTests\obj\Debug\netcoreapp3.1\UiTests.csproj.AssemblyReference.cache
+C:\Practice\SeleniumPractice\UiTests\obj\Debug\netcoreapp3.1\UiTests.AssemblyInfoInputs.cache
+C:\Practice\SeleniumPractice\UiTests\obj\Debug\netcoreapp3.1\UiTests.AssemblyInfo.cs
+C:\Practice\SeleniumPractice\UiTests\obj\Debug\netcoreapp3.1\UiTests.csproj.CoreCompileInputs.cache
+C:\Practice\SeleniumPractice\UiTests\obj\Debug\netcoreapp3.1\UiTests.dll
+C:\Practice\SeleniumPractice\UiTests\obj\Debug\netcoreapp3.1\UiTests.pdb
+C:\Practice\SeleniumPractice\UiTests\obj\Debug\netcoreapp3.1\UiTests.genruntimeconfig.cache
